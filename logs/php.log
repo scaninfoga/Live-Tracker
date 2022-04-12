@@ -1,0 +1,37 @@
+[Tue Apr 12 15:13:52 2022] PHP 8.1.2 Development Server (http://0.0.0.0:8080) started
+[Tue Apr 12 15:13:55 2022] 127.0.0.1:33612 Accepted
+[Tue Apr 12 15:13:55 2022] 127.0.0.1:33612 [200]: GET /index.html
+[Tue Apr 12 15:13:55 2022] 127.0.0.1:33612 Closing
+[Tue Apr 12 15:20:48 2022] 127.0.0.1:33614 Accepted
+[Tue Apr 12 15:20:48 2022] 127.0.0.1:33614 [200]: GET /
+[Tue Apr 12 15:20:48 2022] 127.0.0.1:33614 Closing
+[Tue Apr 12 15:20:52 2022] 127.0.0.1:33616 Accepted
+[Tue Apr 12 15:20:52 2022] 127.0.0.1:33616 [200]: GET /
+[Tue Apr 12 15:20:52 2022] 127.0.0.1:33616 Closing
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33618 Accepted
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33618 [200]: GET /css/main.css
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33620 Accepted
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33618 Closing
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33620 [200]: GET /js/info.js
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33620 Closing
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33622 Accepted
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33622 [200]: GET /js/location.js
+[Tue Apr 12 15:20:53 2022] 127.0.0.1:33622 Closing
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33624 Accepted
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33624 [200]: GET /images/googlelogo_color_116x41dp.png
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33626 Accepted
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33624 Closing
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33626 [200]: GET /images/locked_doc-1.svg
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33626 Closing
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33628 Accepted
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33628 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Tue Apr 12 15:20:54 2022] 127.0.0.1:33628 Closing
+[Tue Apr 12 15:20:55 2022] 127.0.0.1:33630 Accepted
+[Tue Apr 12 15:20:55 2022] 127.0.0.1:33630 [200]: POST /info_handler.php
+[Tue Apr 12 15:20:55 2022] 127.0.0.1:33630 Closing
+[Tue Apr 12 15:20:55 2022] 127.0.0.1:33632 Accepted
+[Tue Apr 12 15:20:55 2022] 127.0.0.1:33632 [200]: GET /images/drive_favicon1.ico
+[Tue Apr 12 15:20:55 2022] 127.0.0.1:33632 Closing
+[Tue Apr 12 15:21:23 2022] 127.0.0.1:33634 Accepted
+[Tue Apr 12 15:21:23 2022] 127.0.0.1:33634 [200]: POST /error_handler.php
+[Tue Apr 12 15:21:23 2022] 127.0.0.1:33634 Closing
